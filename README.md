@@ -1,4 +1,4 @@
-# Data_Analyst_Portfolio_Project
+# Data Analyst Portfolio Project
 Welcome to my Data Analyst portfolio, where I showcase my projects in financial reporting, IFRS analysis, and business analytics. With experience in PL/SQL, Python, and Excel, I focus on extracting insights from financial data, optimizing queries, and building reports that drive decision-making.
 
 📌 What You'll Find:
