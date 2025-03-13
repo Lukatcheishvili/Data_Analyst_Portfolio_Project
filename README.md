@@ -1,2 +1,8 @@
 # Data_Analyst_Portfolio_Project
-A collection of projects showcasing my skills in PL/SQL, Advanced Excel (VBA &amp; Power Query), Python for financial reporting, and business analytics. Includes optimized SQL queries, Python automation, data visualization, and interactive Excel dashboards. Reflecting my experience at corporate field and my journey toward Business Analytics. 
+Welcome to my Data Analyst Portfolio, where I showcase my projects in financial reporting, IFRS analysis, and business analytics. With experience in PL/SQL, Python, and Excel, I focus on extracting insights from financial data, optimizing queries, and building reports that drive decision-making.
+📌 What You'll Find:
+PL/SQL Queries: Efficient data extraction and transformation for financial reporting.
+Python Analytics: Data visualization and automation for financial insights.
+Excel Dashboards: Interactive reports for IFRS and business analytics.
+Business Case Studies: Real-world applications of data-driven decision-making.
+This repository reflects my journey as a Bank of Georgia financial analyst and my goal of advancing into Business Analytics. 🚀
