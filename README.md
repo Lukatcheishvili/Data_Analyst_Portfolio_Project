@@ -7,3 +7,5 @@ Python Analytics: Data visualization and automation for financial insights.
 Excel Dashboards: Interactive reports for IFRS and business analytics.
 Business Case Studies: Real-world applications of data-driven decision-making.
 This repository reflects my journey as a Bank of Georgia financial analyst and my goal of advancing into Business Analytics.
+
+You can access the online version of portfolio on this website: https://cheishvililukalc.wixsite.com/ltportfolio
