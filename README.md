@@ -6,6 +6,8 @@ PL/SQL Queries: Efficient data extraction and transformation for financial repor
 Python Analytics: Data visualization and automation for financial insights.
 Excel Dashboards: Interactive reports for IFRS and business analytics.
 Business Case Studies: Real-world applications of data-driven decision-making.
-This repository reflects my journey as a Bank of Georgia financial analyst and my goal of advancing into Business Analytics.
+This repository reflects my journey as a JSC Bank of Georgia financial analyst and my goal of advancing into Business Analytics.
+
+This is my original work, and any form of plagiarism or unauthorized use is strictly unacceptable. If you have any questions or would like to discuss the project further, feel free to reach out.
 
 You can access the online version of portfolio on this website: https://cheishvililukalc.wixsite.com/ltportfolio
